@@ -1,5 +1,5 @@
-# searchPannel
-.vue
+# searchPannel.vue
+
 
 此範例為連動式下拉選單Pannel
 
